@@ -30,4 +30,6 @@ Now that we have our hypervisor and attacking machine its time to move to the ta
 
 8. then that should be it now you can continue and click finish
 
-9. Now do the same for the target machine and you should be ready to go 
+9. Now do the same for the target machine but you can run this one with less resource because you are only going to be hacking into it not storing data on it and you should be ready to go
+
+10. Turn both machines on and get to learning
