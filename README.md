@@ -1,2 +1,3 @@
 # My_testing_enviorment
-Setting up lab to test common vulnerabilities 
+  Hello everyone,
+I'm going to be going through the steps and choices I made to setup my own testing enviorment 
